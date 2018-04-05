@@ -35,7 +35,7 @@ I give talks on
 
 * Go, Python, R, Nodejs, JS, HTML, CSS, Bash, C/C++
 * Probably best to see my github or ask me directly for more detail
-	* [file browser in Go](https://github.com/amlwwalker/Golang-File-Browser)
+	* [File browser in Go](https://github.com/amlwwalker/Golang-File-Browser)
 	* [Framework to build GUI desktop apps in Go and Qml](https://github.com/amlwwalker/got-qt)
 	* [Demonstration of K means clustering from scratch, in python](https://github.com/amlwwalker/kmeans-ipython)
 	* [Application for quick visualisation of data using d3](https://github.com/amlwwalker/d3-graphing)  
