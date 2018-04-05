@@ -6,20 +6,26 @@ I reckon I was part of the last generation who typed computer games out from a m
 
 ### Hire me for
 
-* Software/App/Startup development
-	* I love a new project, I love working out the design and detail. If you've got an idea, or need something worked on, let me know!
-* Security, Software, Technology consulting.
-	* Are you worried about GDPR?
-	* Are you wondering if your tech team are making your business' interests the priority
-	* Are you worried you are being sold down the river on yet another tech solution?
-	* Do you want to design a more secure work environment?
-	* Is security getting in the way of productivity?
-	* Do you need someone to setup you up with a seamless tech stack?
-* Talks
-	* I give talks on 
-		* Blockchain for business
-		* Data and how your business can benefit from it
-		* Technology and innovation. The two go hand in hand, but how to get it right
+##### Software/App/Startup development
+
+* I love a new project, I love working out the design and detail. If you've got an idea, or need something worked on, let me know!
+
+##### Security, Software, Technology consulting.
+
+* Are you worried about GDPR?
+* Are you wondering if your tech team are making your business' interests the priority
+* Are you worried you are being sold down the river on yet another tech solution?
+* Do you want to design a more secure work environment?
+* Is security getting in the way of productivity?
+* Do you need someone to setup you up with a seamless tech stack?
+
+##### Talks
+
+I give talks on 
+
+* Blockchain for business
+* Data and how your business can benefit from it
+* Technology and innovation. The two go hand in hand, but how to get it right
 * Building an internal tech innovation team
 	* Often culture can stifle innovation. I can guide you to building a team designed entirely to innovate
 
