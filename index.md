@@ -6,6 +6,8 @@ I reckon I was part of the last generation who typed computer games out from a m
 
 ### Hire me for
 
+* Software/App/Startup development
+	* I love a new project, I love working out the design and detail. If you've got an idea, or need something worked on, let me know!
 * Security, Software, Technology consulting.
 	* Are you worried about GDPR?
 	* Are you wondering if your tech team are making your business' interests the priority
