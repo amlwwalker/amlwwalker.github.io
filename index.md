@@ -88,3 +88,12 @@ For better or for worse, I started work as a software developer/analyst for a de
 * CTO/foudner [Hook.ee](https://www.hook.ee) - SAAS phishing platform to aid small businesses in testing their human security status
 * Freelance consultant for non-tech businesses making tech decisions
 * Security consultant, helping businesses deal with a data breach
+
+#### 2018 - present
+
+* Founder BlockSizeUnlimited. Blockchain all the things. alex@blocksizeunlimited.com
+* Tech consultancy supporting blockchain applications
+* Managing ICO fund raises
+* KYC and anti money laundering requirements
+* Designing and building prototype distributed applications
+* Business consultancy and education around blockchain business models
