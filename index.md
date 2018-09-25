@@ -4,7 +4,7 @@ I became conscious, in 1996 (I was not born then...) when I saw the web for the 
 
 I reckon I was part of the last generation who typed computer games out from a magazine and had absolutely no idea why it didn't work. Give an 8 year old a break. I blame those sticky keys of the BBC Micro.
 
-###Blocksize Unlimited
+### Blocksize Unlimited
 
 * Founder BlockSizeUnlimited. Blockchain all the things. alex@blocksizeunlimited.com
 * Tech consultancy supporting blockchain applications
