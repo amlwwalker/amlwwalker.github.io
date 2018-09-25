@@ -4,6 +4,44 @@ I became conscious, in 1996 (I was not born then...) when I saw the web for the 
 
 I reckon I was part of the last generation who typed computer games out from a magazine and had absolutely no idea why it didn't work. Give an 8 year old a break. I blame those sticky keys of the BBC Micro.
 
+###Blocksize Unlimited
+
+* Founder BlockSizeUnlimited. Blockchain all the things. alex@blocksizeunlimited.com
+* Tech consultancy supporting blockchain applications
+* Managing ICO fund raises
+* KYC and anti money laundering requirements
+* Designing and building prototypes for distributed applications
+* Business consultancy and education around blockchain business models
+* Working in an agile manner when your code is immutable
+
+### Experience
+
+#### 2011-2014
+
+For better or for worse, I started work as a software developer/analyst for a defence contractor here in the UK.
+
+* Software developer
+* Data science/analyst
+* Web interface design
+* Penetration testing
+* Security analysis and research
+* Programming automating tasks
+
+#### 2014-2016
+
+* Head of security, [Decoded ltd](https://github.com/decodedCo)
+* Sys administrator
+* Dev ops
+* Product developer
+* Course designer (cyber security, programming, data science)
+
+#### 2016 - present
+
+* CTO/foudner [Hook.ee](https://www.hook.ee) - SAAS phishing platform to aid small businesses in testing their human security status
+* Freelance consultant for non-tech businesses making tech decisions
+* Security consultant, helping businesses deal with a data breach
+
+
 ### Hire me for
 
 ##### Software/App/Startup development
@@ -62,38 +100,3 @@ Fast forward 2011, I graduated with a master's in mechanical engineering. Howeve
 * Embedded C Programming on arm devices
 * Embedded sensor control
 
-### Employment
-
-#### 2011-2014
-
-For better or for worse, I started work as a software developer/analyst for a defence contractor here in the UK.
-
-* Software developer
-* Data science/analyst
-* Web interface design
-* Penetration testing
-* Security analysis and research
-* Programming automating tasks
-
-#### 2014-2016
-
-* Head of security, [Decoded ltd](https://github.com/decodedCo)
-* Sys administrator
-* Dev ops
-* Product developer
-* Course designer (cyber security, programming, data science)
-
-#### 2016 - present
-
-* CTO/foudner [Hook.ee](https://www.hook.ee) - SAAS phishing platform to aid small businesses in testing their human security status
-* Freelance consultant for non-tech businesses making tech decisions
-* Security consultant, helping businesses deal with a data breach
-
-#### 2018 - present
-
-* Founder BlockSizeUnlimited. Blockchain all the things. alex@blocksizeunlimited.com
-* Tech consultancy supporting blockchain applications
-* Managing ICO fund raises
-* KYC and anti money laundering requirements
-* Designing and building prototype distributed applications
-* Business consultancy and education around blockchain business models
