@@ -6,7 +6,7 @@ I reckon I was part of the last generation who typed computer games out from a m
 
 ### Blocksize Unlimited
 
-* Founder BlockSizeUnlimited. Blockchain all the things. alex@blocksizeunlimited.com
+* Founder BlockSizeUnlimited. Blockchain all the things. [alex@blocksizeunlimited.com](mailto:alex@blocksizeunlimited.com)
 * Tech consultancy supporting blockchain applications
 * Managing ICO fund raises
 * KYC and anti money laundering requirements
