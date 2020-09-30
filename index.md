@@ -47,7 +47,7 @@ For better or for worse, I started work as a software developer/analyst for a go
 
 * CTO/founder [Hook.ee](https://www.hook.ee) - SAAS phishing platform to aid small businesses in testing their human security status
 	* A spear phishing platform for SMEs to test their employee resistance to spear phishing attacks
-* CTO/founder [blocksizeunlimited.com](https://blocksizeunlimited.com)
+* CTO/founder [blocksizeunlimited.com](https://www.blocksizeunlimited.com)
 	* Consultancy offering tecnical aid to companies of all sizes
 	* Consulting CTO role
 	* Software developer/lead developer
