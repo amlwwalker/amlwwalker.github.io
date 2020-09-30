@@ -46,10 +46,19 @@ For better or for worse, I started work as a software developer/analyst for a go
 #### 2016 - present
 
 * CTO/founder [Hook.ee](https://www.hook.ee) - SAAS phishing platform to aid small businesses in testing their human security status
+	* A spear phishing platform for SMEs to test their employee resistance to spear phishing attacks
+* CTO/founder [blocksizeunlimited.com](https://blocksizeunlimited.com)
+	* Consultancy offering tecnical aid to companies of all sizes
+	* Consulting CTO role
+	* Software developer/lead developer
+	* Contracted work
 * Freelance consultant for non-tech businesses making tech decisions
 * Security consultant, helping businesses deal with a data breach
 * Developing blockchain technologies to counter data fraud and improve data integrity
 * Consulting to organisations on blockchain solutions
+
+
+See [LinkedIn](https://www.linkedin.com/in/amlwwalker/) 
 
 ##### Case Studies 2016 - present
 
