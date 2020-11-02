@@ -10,7 +10,7 @@ I struggle to keep my Linked In up to date, but if you would like to connect wit
 
 ### Open source work I'm particularly proud of
 
-* [Pickle It)](https://github.com/amlwwalker/pickleIt)
+* [Pickle It](https://github.com/amlwwalker/pickleIt)
 	* Pickle It was inspired by the classic issue of people creating files and documents and naming them v1, v2, v3 etc... or emailing near identical spreadsheets all named slightly differently. I wanted to build something that managed the naming conventions and handled the differences between versions for you. This project required to be able to take binary differences between files and be able to patch them together depending on what had changed and what needed updating.
 * [PDF-Editor](https://github.com/amlwwalker/pdf-editor)
 	* This was for an engineering company that needed to use image recognition to work out whether some engineering drawings met the standards required by the industry. Instead of humans doing the checks the goal was to have machines do it. The issue was the PDFs were tricky to get an a neural network to be able to process so this application converts each page of a PDF to PNGs. Not only that once the images are in PNG format they can be edited to create a training data set so that the neural network could learn what a correct and incorrect image looked like. The company was then able to feed engineering drawings into a neural network and spot errors in the drawings. The model used Keras and python to train the algoritm and then Golang to produce an application the company could feed with PDFs
