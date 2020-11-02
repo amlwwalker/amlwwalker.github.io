@@ -4,17 +4,33 @@ I became conscious, in 1996 (I was not born then...) when I saw the web for the 
 
 I reckon I was part of the last generation who typed computer games out from a magazine and had absolutely no idea why it didn't work. Give an 8 year old a break. I blame those sticky keys of the BBC Micro.
 
+If it's relevant. I love cooking and I am slowly building up my repertoire of [recipes here](https://github.com/amlwwalker/recipes) 
+
+I struggle to keep my Linked In up to date, but if you would like to connect with me you can do so here [LinkedIn](https://www.linkedin.com/in/amlwwalker/) 
+
 ### Blocksize Unlimited
 
-* Founder BlockSizeUnlimited. Blockchain all the things. [alex@blocksizeunlimited.com](mailto:alex@blocksizeunlimited.com)
+* Founded BlockSizeUnlimited. [alex@blocksizeunlimited.com](mailto:alex@blocksizeunlimited.com)
+	* Consultancy offering tecnical aid to companies of all sizes
+	* Consulting CTO role
+	* Software developer/lead developer
+	* Contracted work
+* Security consultant, helping businesses deal with a data breach	
 * Tech consultancy supporting blockchain applications
 * Managing ICO fund raises
 * KYC and anti money laundering requirements
 * Designing and building prototypes for distributed applications
 * Business consultancy and education around blockchain business models
 * Working in an agile manner when your code is immutable
+* Developing microservices and architecture for a range of businesses
+* Consulting on tech builds for seed funded businesses
+* Developing data analytical prototypes for companies that wish to gain insights from their data
 
-### Experience
+### Previous Experience
+
+#### 2007-2011
+
+Master's in mechanical engineering from the University of Nottingham focussing on desiging internal combusition engine simulations for my dissertation(s) whilst specialising module choices in aerodynamics.
 
 #### 2011-2014
 
@@ -43,22 +59,10 @@ For better or for worse, I started work as a software developer/analyst for a go
 - As part of this and working with their clients, it was necessary to understand business requirements and how technology could facilitate these.
 - In general business suffer as a result of not having data in a format that allows for large amounts of the business to query it. Therefore often a business will struggle to utilise data science techniques because the data just can't be accessed. A lot of the work with clients at this stage was maturing their data pipeline.
 
-#### 2016 - present
+#### 2016 - 2019
 
 * CTO/founder [Hook.ee](https://www.hook.ee) - SAAS phishing platform to aid small businesses in testing their human security status
 	* A spear phishing platform for SMEs to test their employee resistance to spear phishing attacks
-* CTO/founder [blocksizeunlimited.com](https://www.blocksizeunlimited.com)
-	* Consultancy offering tecnical aid to companies of all sizes
-	* Consulting CTO role
-	* Software developer/lead developer
-	* Contracted work
-* Freelance consultant for non-tech businesses making tech decisions
-* Security consultant, helping businesses deal with a data breach
-* Developing blockchain technologies to counter data fraud and improve data integrity
-* Consulting to organisations on blockchain solutions
-
-
-See [LinkedIn](https://www.linkedin.com/in/amlwwalker/) 
 
 ##### Case Studies 2016 - present
 
@@ -84,6 +88,9 @@ See [LinkedIn](https://www.linkedin.com/in/amlwwalker/)
 * Do you need someone to setup you up with a seamless tech stack?
 * Does blockchain seem like the answer but you can't quite see how it fits in
 * Do you need to improve your blockchain vocabulary purely for your business needs?
+* Do you need software developed, from web apps, to cloud infrastructure configuraton to microservices
+* Do you need a CTO but don't want to hire one full time?
+* Do you need data analytics and insights or proof of concepts built around what your data might be able to tell you? (insert buzzword AI/ML here)
 
 ##### Talks
 
@@ -94,6 +101,7 @@ I give talks on
 * Technology and innovation. The two go hand in hand, but how to get it right
 * Building an internal tech innovation team
 	* Often culture can stifle innovation. I can guide you to building a team designed entirely to innovate
+* Security in a modern GDPR world and how it all fits in with data analytics
 
 ### Ask me about:
 
