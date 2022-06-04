@@ -10,6 +10,8 @@ I struggle to keep my Linked In up to date, but if you would like to connect wit
 
 ### Open source work I'm particularly proud of
 
+* [Greenfinch](https://www.greenfinch.app)
+	* Greenfinch is a decentralised file storage application. Think Dropbox on the blockchain. It is built on the Neo blockchain. In 2022 Greenfinch won first place in the Neo Polaris Hackathon for "Best Middlware" project.
 * [Pickle It](https://github.com/amlwwalker/pickleIt)
 	* Pickle It was inspired by the classic issue of people creating files and documents and naming them v1, v2, v3 etc... or emailing near identical spreadsheets all named slightly differently. I wanted to build something that managed the naming conventions and handled the differences between versions for you. This project required to be able to take binary differences between files and be able to patch them together depending on what had changed and what needed updating.
 * [PDF-Editor](https://github.com/amlwwalker/pdf-editor)
