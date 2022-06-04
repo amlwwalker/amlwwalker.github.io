@@ -19,6 +19,13 @@ I struggle to keep my Linked In up to date, but if you would like to connect wit
 * [Got-Qt](https://github.com/amlwwalker/got-qt)
 	* Got-Qt is a starter application for using Qt/Qml with Go. There is a lot of code out there but there is also a lot of boiler plate required to get started. This is in this list because of the number of people who have star'd and forked it :) 
 
+## Current Roles
+
+### Human Security 2020 - present
+
+[Human Security](http://humansecurity.com/) works to rid the world of bots masquerading as humans, committing fraud and disrupting business and technology. My role is as a senior engineer in Research and Development. The role involves designing new integrations into our clients' infrastructure and designing new ways to financially cripple bot nets.
+This means that my day to day work involves designing new architectures, writing code in multiple languages, crafting proof of concepts and demonstrations, liasing with sales and customer's tech teams to support integrations, doing code reviews, keeping good tech discplines in place across the team, and managing developers. 
+
 ### Blocksize Unlimited
 
 * Founded BlockSizeUnlimited. [alex@blocksizeunlimited.com](mailto:alex@blocksizeunlimited.com)
