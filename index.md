@@ -26,7 +26,25 @@ I struggle to keep my Linked In up to date, but if you would like to connect wit
 ### Human Security 2020 - present
 
 [Human Security](http://humansecurity.com/) works to rid the world of bots masquerading as humans, committing fraud and disrupting business and technology. My role is as a senior engineer in Research and Development. The role involves designing new integrations into our clients' infrastructure and designing new ways to financially cripple bot nets.
-This means that my day to day work involves designing new architectures, writing code in multiple languages, crafting proof of concepts and demonstrations, liasing with sales and customer's tech teams to support integrations, doing code reviews, keeping good tech discplines in place across the team, and managing developers. 
+This means that my day to day work involves designing new architectures, writing code in multiple languages, crafting proof of concepts and demonstrations, liasing with sales and customer's tech teams to support integrations, doing code reviews, keeping good tech discplines in place across the team, and managing developers.
+
+#### Technologies used
+
+* Go
+* Python
+* Lua
+* AWS
+* pSQL
+* Redis
+* Javascript/Typescript
+* HTTP (REST)
+* HTTP2 (gRPC)
+* JSON/protobufs
+* NGINX/Traefik
+* Docker (microservices)
+
+
+
 
 ### Blocksize Unlimited
 
