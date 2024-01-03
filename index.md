@@ -4,7 +4,7 @@ I became conscious, in 1996 (I was not born then...) when I saw the web for the 
 
 I reckon I was part of the last generation who typed computer games out from a magazine and had absolutely no idea why it didn't work. Give an 8 year old a break. I blame those sticky keys of the BBC Micro.
 
-If it's relevant. I love cooking and I am slowly building up my repertoire of [recipes here](https://amlwwalker.github.io/recipes/) 
+If it's relevant. I love cooking and I am slowly building up my repertoire of [recipes here.](https://amlwwalker.github.io/recipes/) Git is an excellent way to manage recipes it turns out.
 
 I struggle to keep my Linked In up to date, but if you would like to connect with me you can do so here [LinkedIn](https://www.linkedin.com/in/amlwwalker/) 
 
@@ -21,9 +21,11 @@ I struggle to keep my Linked In up to date, but if you would like to connect wit
 * [Got-Qt](https://github.com/amlwwalker/got-qt)
 	* Got-Qt is a starter application for using Qt/Qml with Go. There is a lot of code out there but there is also a lot of boiler plate required to get started. This is in this list because of the number of people who have star'd and forked it :) 
 
-## Current Roles
+## Career History
 
 ### Human Security 2020 - present
+
+##### Senior Engineer
 
 [Human Security](http://humansecurity.com/) works to rid the world of bots masquerading as humans, committing fraud and disrupting business and technology. My role is as a senior engineer in Research and Development. The role involves designing new integrations into our clients' infrastructure and designing new ways to financially cripple bot nets.
 This means that my day to day work involves designing new architectures, writing code in multiple languages, crafting proof of concepts and demonstrations, liasing with sales and customer's tech teams to support integrations, doing code reviews, keeping good tech discplines in place across the team, and managing developers.
@@ -43,10 +45,9 @@ This means that my day to day work involves designing new architectures, writing
 * NGINX/Traefik
 * Docker (microservices)
 
+### Blocksize Unlimited 2018 - 2023
 
-
-
-### Blocksize Unlimited
+##### Consultant (founder)
 
 * Founded BlockSizeUnlimited. [alex@blocksizeunlimited.com](mailto:alex@blocksizeunlimited.com)
 	* Consultancy offering tecnical aid to companies of all sizes
@@ -64,28 +65,17 @@ This means that my day to day work involves designing new architectures, writing
 * Consulting on tech builds for seed funded businesses
 * Developing data analytical prototypes for companies that wish to gain insights from their data
 
-### Previous Experience
+### Hook.ee 2016 - 2019
 
-#### 2007-2011
+##### CTO/founder 
 
-Master's in mechanical engineering from the University of Nottingham focussing on desiging internal combusition engine simulations for my dissertation(s) whilst specialising module choices in aerodynamics.
+* SAAS phishing platform to aid small businesses in testing their human security status
+* A spear phishing platform for SMEs to test their employee resistance to spear phishing attacks
 
-#### 2011-2014
+### Decoded Ltd 2014 - 2017
 
-For better or for worse, I started work as a software developer/analyst for a government defence contractor here in the UK.
+##### Head of security
 
-* Software developer
-* Data science/analyst
-* Web interface design
-* Penetration testing, internet security and encryption techniques
-* Security analysis and research
-* Automating tasks
-
-- General tasks involved processing large amounts of data coming from multiple sources, syncing the data up so that the final dataset was discreet. Data would arrive asyncronously therefore it was necessary to minimise manual interaction. The final data could then be queried for anomalies and this could then go through further processing. The tools to do this did not exist and so everything had to be designed and built for the task at hand.
-
-#### 2014-2016
-
-* Head of security, [Decoded ltd](https://github.com/decodedCo)
 * Sys administrator
 * Dev ops
 * Product developer
@@ -97,10 +87,25 @@ For better or for worse, I started work as a software developer/analyst for a go
 - As part of this and working with their clients, it was necessary to understand business requirements and how technology could facilitate these.
 - In general business suffer as a result of not having data in a format that allows for large amounts of the business to query it. Therefore often a business will struggle to utilise data science techniques because the data just can't be accessed. A lot of the work with clients at this stage was maturing their data pipeline.
 
-#### 2016 - 2019
+### BAE Systems 2011 - 2014
 
-* CTO/founder [Hook.ee](https://www.hook.ee) - SAAS phishing platform to aid small businesses in testing their human security status
-	* A spear phishing platform for SMEs to test their employee resistance to spear phishing attacks
+##### software developer/analyst in government defence.
+
+* Software developer
+* Data science/analyst
+* Web interface design
+* Penetration testing, internet security and encryption techniques
+* Security analysis and research
+* Automating tasks
+
+- General tasks involved processing large amounts of data coming from multiple sources, syncing the data up so that the final dataset was discreet. Data would arrive asyncronously therefore it was necessary to minimise manual interaction. The final data could then be queried for anomalies and this could then go through further processing. The tools to do this did not exist and so everything had to be designed and built for the task at hand.
+
+### Formal Education
+
+#### 2007-2011
+
+Master's in mechanical engineering from the University of Nottingham focussing on desiging internal combusition engine simulations for my dissertation(s) whilst specialising module choices in aerodynamics.
+
 
 ##### Case Studies 2016 - present
 
